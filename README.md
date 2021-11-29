@@ -9,6 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiumu2017&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **xiumu2017/xiumu2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +26,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### waka-time 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
