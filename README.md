@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Java/SpringBoot/SpringCloud/...
-- 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on web3
-- 🤔 I’m looking for help with leetcode
-- 📫 How to reach me: dz.paradis3@gmail.com
-- ⚡ Fun fact: LOL/Football
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiumu2017&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
