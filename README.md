@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 > 📦 204.3 kB Used in GitHub's Storage 
  > 
-> 🏆 357 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -98,5 +98,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2023 18:33:08 UTC
+ Last Updated on 01/01/2024 18:33:02 UTC
 <!--END_SECTION:waka-->
