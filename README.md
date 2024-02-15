@@ -61,19 +61,16 @@ Sunday                   229 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-SQL                      1 hr 22 mins        ████████████████████████░   96.31 % 
-Java                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-DataGrip                 1 hr 22 mins        ████████████████████████░   96.31 % 
-IntelliJ                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Solareye_TiDB            1 hr 22 mins        ████████████████████████░   96.31 % 
-solareye-3rd-dingding    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -93,5 +90,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2024 18:33:17 UTC
+ Last Updated on 15/02/2024 18:32:41 UTC
 <!--END_SECTION:waka-->
