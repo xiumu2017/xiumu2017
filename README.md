@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C962%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C963%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,16 +61,26 @@ Sunday                   230 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      33 mins             ██████████░░░░░░░░░░░░░░░   41.44 % 
+Markdown                 31 mins             ██████████░░░░░░░░░░░░░░░   38.83 % 
+Java                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+GitIgnore file           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+DataGrip                 33 mins             ██████████░░░░░░░░░░░░░░░   41.44 % 
+Writerside               32 mins             ██████████░░░░░░░░░░░░░░░   40.25 % 
+IntelliJ                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Solareye_TiDB            33 mins             ██████████░░░░░░░░░░░░░░░   41.44 % 
+hexo                     32 mins             ██████████░░░░░░░░░░░░░░░   40.25 % 
+solareye-system          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+solareye-ops-log         6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  48 mins             ███████████████░░░░░░░░░░   59.75 % 
+Mac                      32 mins             ██████████░░░░░░░░░░░░░░░   40.25 % 
 ```
 
 **I Mostly Code in Java** 
@@ -90,5 +100,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2024 18:32:45 UTC
+ Last Updated on 19/02/2024 18:32:40 UTC
 <!--END_SECTION:waka-->
