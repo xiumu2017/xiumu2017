@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C020%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C025%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,16 +61,25 @@ Sunday                   230 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      2 hrs 48 mins       █████████████░░░░░░░░░░░░   52.53 % 
+Java                     2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.45 % 
+HTTP Request             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+XML                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+DataGrip                 2 hrs 48 mins       █████████████░░░░░░░░░░░░   52.53 % 
+Intellijidea             2 hrs 32 mins       ████████████░░░░░░░░░░░░░   47.47 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Solareye_TiDB            2 hrs 48 mins       █████████████░░░░░░░░░░░░   52.53 % 
+solareye-system          1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+solareye-erp             35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+solareye-health          32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+solareye-3rd-dingding    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -90,5 +99,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2024 18:32:36 UTC
+ Last Updated on 20/03/2024 18:32:55 UTC
 <!--END_SECTION:waka-->
