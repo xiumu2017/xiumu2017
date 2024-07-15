@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 > 📦 207.3 kB Used in GitHub's Storage 
  > 
-> 🏆 41 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 47 Public Repositories 
@@ -99,5 +97,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2024 18:40:27 UTC
+ Last Updated on 15/07/2024 18:36:03 UTC
 <!--END_SECTION:waka-->
