@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C515%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -90,5 +90,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2025 18:39:07 UTC
+ Last Updated on 27/10/2025 18:42:01 UTC
 <!--END_SECTION:waka-->
