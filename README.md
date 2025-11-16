@@ -18,69 +18,28 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C515%20hrs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 208.1 kB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2025
+> 🏆 8 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
 > 📜 50 Public Repositories 
  > 
-> 🔑 23 Private Repositories 
+> 🔑 24 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                777 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-🌆 Daytime                1299 commits        █████████░░░░░░░░░░░░░░░░   34.64 % 
-🌃 Evening                1649 commits        ███████████░░░░░░░░░░░░░░   43.97 % 
-🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   728 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Tuesday                  600 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Wednesday                574 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Thursday                 665 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Friday                   604 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Saturday                 344 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Sunday                   235 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Vue                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Vue                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
@@ -90,5 +49,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2025 18:39:23 UTC
+ Last Updated on 16/11/2025 18:39:24 UTC
 <!--END_SECTION:waka-->
