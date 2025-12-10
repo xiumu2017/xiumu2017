@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C519%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C519%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -61,16 +61,16 @@ Sunday                   236 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 3 hrs 13 mins       █████████████████████████   100.00 % 
+Markdown                 1 hr 48 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 3 hrs 13 mins       █████████████████████████   100.00 % 
+Obsidian                 1 hr 48 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Obsidian                 3 hrs 13 mins       █████████████████████████   100.00 % 
+Obsidian                 1 hr 48 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -90,5 +90,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2025 18:41:53 UTC
+ Last Updated on 10/12/2025 18:44:17 UTC
 <!--END_SECTION:waka-->
