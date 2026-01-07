@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C528%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C528%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -61,16 +61,20 @@ Sunday                   238 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 45 mins             █████████████████████████   100.00 % 
+Markdown                 45 mins             ██████████████████░░░░░░░   70.78 % 
+YAML                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 
 🔥 Editors: 
-Obsidian                 45 mins             █████████████████████████   100.00 % 
+Obsidian                 45 mins             ██████████████████░░░░░░░   70.78 % 
+VS Code                  18 mins             ███████░░░░░░░░░░░░░░░░░░   29.22 % 
 
 🐱‍💻 Projects: 
-Obsidian                 45 mins             █████████████████████████   100.00 % 
+Obsidian                 45 mins             ██████████████████░░░░░░░   70.78 % 
+sre-deploy               18 mins             ███████░░░░░░░░░░░░░░░░░░   29.22 % 
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -90,5 +94,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2026 18:44:57 UTC
+ Last Updated on 07/01/2026 18:44:38 UTC
 <!--END_SECTION:waka-->
