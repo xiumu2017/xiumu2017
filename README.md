@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C538%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C539%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 314.4 kB Used in GitHub's Storage 
+> 📦 314.3 kB Used in GitHub's Storage 
  > 
 > 🏆 24 Contributions in the Year 2026
  > 
@@ -61,16 +61,16 @@ Sunday                   238 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 3 hrs               █████████████████████████   100.00 % 
+Markdown                 3 hrs 53 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 3 hrs               █████████████████████████   100.00 % 
+Obsidian                 3 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Obsidian                 3 hrs               █████████████████████████   100.00 % 
+Obsidian                 3 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs               █████████████████████████   100.00 % 
+Windows                  3 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -90,5 +90,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2026 18:45:13 UTC
+ Last Updated on 28/01/2026 18:44:55 UTC
 <!--END_SECTION:waka-->
