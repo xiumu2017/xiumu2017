@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C539%20hrs%2058%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -34,45 +32,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                787 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-🌆 Daytime                1304 commits        █████████░░░░░░░░░░░░░░░░   34.44 % 
-🌃 Evening                1670 commits        ███████████░░░░░░░░░░░░░░   44.11 % 
-🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   733 commits         █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Tuesday                  606 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Wednesday                577 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Thursday                 675 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Friday                   608 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Saturday                 349 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Sunday                   238 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-Markdown                 3 hrs 53 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Obsidian                 3 hrs 53 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Obsidian                 3 hrs 53 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  3 hrs 53 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -90,5 +49,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2026 18:44:37 UTC
+ Last Updated on 01/02/2026 18:44:36 UTC
 <!--END_SECTION:waka-->
