@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C551%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C552%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -61,16 +61,19 @@ Sunday                   238 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 41 mins             █████████████████████████   100.00 % 
+Markdown                 32 mins             ████████████████░░░░░░░░░   64.33 % 
+YAML                     14 mins             ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 
 🔥 Editors: 
-Obsidian                 41 mins             █████████████████████████   100.00 % 
+Obsidian                 51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Obsidian                 41 mins             █████████████████████████   100.00 % 
+Obsidian                 32 mins             ████████████████░░░░░░░░░   64.33 % 
+algo-python              18 mins             █████████░░░░░░░░░░░░░░░░   35.67 % 
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -90,5 +93,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2026 18:47:12 UTC
+ Last Updated on 11/04/2026 18:45:42 UTC
 <!--END_SECTION:waka-->
