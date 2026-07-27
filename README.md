@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C679%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C666%20hrs%2030%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -61,25 +63,48 @@ Sunday                   238 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.69 % 
-YAML                     1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-Python                   56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Other                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Python                   2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+Markdown                 2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+YAML                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Vue                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 🔥 Editors: 
-Obsidian                 3 hrs 34 mins       ████████████████░░░░░░░░░   64.12 % 
-Codex CLI                2 hrs               █████████░░░░░░░░░░░░░░░░   35.88 % 
+Codex CLI                4 hrs 22 mins       ██████████████░░░░░░░░░░░   56.83 % 
+Obsidian                 3 hrs 19 mins       ███████████░░░░░░░░░░░░░░   43.17 % 
 
 🐱‍💻 Projects: 
-public-file              2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   40.28 % 
-Obsidian                 1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-isolareye-devops         50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-solareye-agent           25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-devops-auth              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+public-file              1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+isolareye-devops         1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+devops-auth              1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+Obsidian                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+devops-admin-vue         43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
 
 💻 Operating System: 
-Windows                  5 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 42 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 45 mins (87.67%)
+
+✍️ 4,428 lines written by AI, 87 lines written by hand (98.07% AI-written)
+
+🔤 45,422,536 Input Tokens, 388,374 Output Tokens
+
+💵 $139.21 Estimated AI Cost This Week
+
+🧠 28 AI Sessions, 61 AI Prompts
+
+GPT                      1,667 lines         █████████████████████████   100.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.07% of written lines came from AI
+📄 Detailed Prompter — average 598 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 1.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -99,5 +124,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:42:59 UTC
+ Last Updated on 27/07/2026 20:03:02 UTC
 <!--END_SECTION:waka-->
