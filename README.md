@@ -63,49 +63,48 @@ Sunday                   238 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   3 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   34.68 % 
-Markdown                 3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.21 % 
-Vue                      1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-YAML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Docker                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Markdown                 4 hrs 18 mins       ███████████░░░░░░░░░░░░░░   44.63 % 
+Python                   1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+YAML                     1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Docker                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 🔥 Editors: 
-Codex CLI                7 hrs 24 mins       █████████████████░░░░░░░░   67.11 % 
-Obsidian                 3 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.88 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Codex CLI                5 hrs 55 mins       ███████████████░░░░░░░░░░   61.34 % 
+Obsidian                 3 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.66 % 
 
 🐱‍💻 Projects: 
-devops-auth              4 hrs 45 mins       ███████████░░░░░░░░░░░░░░   43.09 % 
-Obsidian                 2 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-devops-admin-vue         1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-isolareye-devops         1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-gimp-deployment          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Obsidian                 3 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   35.08 % 
+devops-auth              3 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.61 % 
+public-file              1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+gimp-deployment          53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+devops-admin-vue         7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 💻 Operating System: 
-Windows                  11 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 43 mins (88.01%)
+⏱ AI Coding Time: 7 hrs 9 mins (74.13%)
 
-✍️ 7,268 lines written by AI, 63 lines written by hand (99.14% AI-written)
+✍️ 4,081 lines written by AI, 117 lines written by hand (97.21% AI-written)
 
-🔤 110,714,385 Input Tokens, 590,972 Output Tokens
+🔤 84,926,693 Input Tokens, 411,635 Output Tokens
 
-💵 $523.48 Estimated AI Cost This Week
+💵 $433.87 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 69 AI Prompts
+🧠 25 AI Sessions, 54 AI Prompts
 
-GPT                      5,967 lines         █████████████████████████   100.00 % 
+GPT                      4,323 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.14% of written lines came from AI
-📚 Verbose Prompter — average 1,664 characters per prompt
+🤖 AI-Driven — 97.21% of written lines came from AI
+📚 Verbose Prompter — average 2,043 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.82% of changed lines were hand-edited
+🚀 High AI Trust — 2.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -125,5 +124,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:42:16 UTC
+ Last Updated on 04/08/2026 20:08:11 UTC
 <!--END_SECTION:waka-->
