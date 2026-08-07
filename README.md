@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C685%20hrs%2040%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%2033%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -59,49 +63,49 @@ Sunday                   238 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 5 hrs 44 mins       █████████████░░░░░░░░░░░░   51.81 % 
-YAML                     2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Docker                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Markdown                 6 hrs 47 mins       ██████████████░░░░░░░░░░░   54.26 % 
+YAML                     2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Docker                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🔥 Editors: 
-Codex CLI                7 hrs 31 mins       █████████████████░░░░░░░░   67.88 % 
-Obsidian                 3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.55 % 
-Exec Wakatime            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Codex CLI                8 hrs 31 mins       █████████████████░░░░░░░░   68.02 % 
+Obsidian                 3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.48 % 
+Exec Wakatime            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🐱‍💻 Projects: 
-Obsidian                 3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-gimp-deployment          3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-public-file              1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-devops-auth              1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-energy-project-crawler   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Obsidian                 3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.30 % 
+gimp-deployment          3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+isolareye-devops         1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+public-file              1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+docker-files             1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 
 💻 Operating System: 
-Windows                  11 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 38 mins (77.89%)
+⏱ AI Coding Time: 10 hrs 24 mins (83.06%)
 
-✍️ 5,552 lines written by AI, 117 lines written by hand (97.94% AI-written)
+✍️ 4,804 lines written by AI, 96 lines written by hand (98.04% AI-written)
 
-🔤 72,544,898 Input Tokens, 487,166 Output Tokens
+🔤 46,723,469 Input Tokens, 488,259 Output Tokens
 
-💵 $376.55 Estimated AI Cost This Week
+💵 $255.65 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 73 AI Prompts
+🧠 28 AI Sessions, 85 AI Prompts
 
-GPT                      5,742 lines         █████████████████████████   100.00 % 
+GPT                      4,849 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.94% of written lines came from AI
-📚 Verbose Prompter — average 1,977 characters per prompt
+🤖 AI-Driven — 98.04% of written lines came from AI
+📚 Verbose Prompter — average 1,786 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 2.0% of changed lines were hand-edited
+🚀 High AI Trust — 1.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -121,5 +125,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:22:29 UTC
+ Last Updated on 07/08/2026 19:27:41 UTC
 <!--END_SECTION:waka-->
