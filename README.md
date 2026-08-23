@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C707%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C707%20hrs%2028%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%2058%20mins-blue?style=flat)
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 318.1 kB Used in GitHub's Storage 
+> 📦 318.2 kB Used in GitHub's Storage 
  > 
 > 🏆 86 Contributions in the Year 2026
  > 
@@ -63,48 +63,48 @@ Sunday                   238 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 4 hrs 12 mins       ███████████░░░░░░░░░░░░░░   43.41 % 
-YAML                     2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Python                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Text                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Markdown                 3 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.78 % 
+YAML                     1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Smarty                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 
 🔥 Editors: 
-Obsidian                 5 hrs 10 mins       █████████████░░░░░░░░░░░░   53.47 % 
-Codex CLI                4 hrs 30 mins       ████████████░░░░░░░░░░░░░   46.53 % 
+Codex CLI                4 hrs 30 mins       ██████████████░░░░░░░░░░░   57.80 % 
+Obsidian                 3 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.20 % 
 
 🐱‍💻 Projects: 
-Obsidian                 3 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   35.30 % 
-public-file              1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-isolareye-devops         48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-risk-monitorrisk-monitor 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-devops-platform          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Obsidian                 2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.78 % 
+public-file              1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+isolareye-devops         48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+risk-monitorrisk-monitor 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+devops-platform          31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 💻 Operating System: 
-Windows                  9 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 6 mins (73.51%)
+⏱ AI Coding Time: 5 hrs 43 mins (73.45%)
 
-✍️ 3,884 lines written by AI, 105 lines written by hand (97.37% AI-written)
+✍️ 2,652 lines written by AI, 110 lines written by hand (96.02% AI-written)
 
-🔤 2,834,962 Input Tokens, 287,861 Output Tokens
+🔤 2,362,002 Input Tokens, 243,098 Output Tokens
 
 💵 $22.18 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 74 AI Prompts
+🧠 27 AI Sessions, 60 AI Prompts
 
 GPT                      1,280 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.37% of written lines came from AI
-📄 Detailed Prompter — average 651 characters per prompt
+🤖 AI-Driven — 96.02% of written lines came from AI
+📄 Detailed Prompter — average 792 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 3.11% of changed lines were hand-edited
+🚀 High AI Trust — 4.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -124,5 +124,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 18:56:17 UTC
+ Last Updated on 23/08/2026 18:55:23 UTC
 <!--END_SECTION:waka-->
