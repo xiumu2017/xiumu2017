@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 318.2 kB Used in GitHub's Storage 
+> 📦 318.1 kB Used in GitHub's Storage 
  > 
 > 🏆 86 Contributions in the Year 2026
  > 
@@ -63,48 +63,48 @@ Sunday                   238 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 3 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.78 % 
-YAML                     1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Smarty                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Markdown                 2 hrs 20 mins       ███████████░░░░░░░░░░░░░░   43.96 % 
+YAML                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Other                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Smarty                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 
 🔥 Editors: 
-Codex CLI                4 hrs 30 mins       ██████████████░░░░░░░░░░░   57.80 % 
-Obsidian                 3 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.20 % 
+Codex CLI                3 hrs 22 mins       ████████████████░░░░░░░░░   63.32 % 
+Obsidian                 1 hr 57 mins        █████████░░░░░░░░░░░░░░░░   36.68 % 
 
 🐱‍💻 Projects: 
-Obsidian                 2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.78 % 
-public-file              1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-isolareye-devops         48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-risk-monitorrisk-monitor 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-devops-platform          31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Obsidian                 1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+isolareye-devops         48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+risk-monitorrisk-monitor 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+devops-admin-vue         38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+devops-platform          31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 
 💻 Operating System: 
-Windows                  7 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 43 mins (73.45%)
+⏱ AI Coding Time: 4 hrs 2 mins (75.64%)
 
-✍️ 2,652 lines written by AI, 110 lines written by hand (96.02% AI-written)
+✍️ 783 lines written by AI, 119 lines written by hand (86.81% AI-written)
 
-🔤 2,362,002 Input Tokens, 243,098 Output Tokens
+🔤 1,466,197 Input Tokens, 144,200 Output Tokens
 
-💵 $22.18 Estimated AI Cost This Week
+💵 $11.14 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 60 AI Prompts
+🧠 20 AI Sessions, 48 AI Prompts
 
-GPT                      1,280 lines         █████████████████████████   100.00 % 
+GPT                      979 lines           █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.02% of written lines came from AI
-📄 Detailed Prompter — average 792 characters per prompt
+🤖 AI-Driven — 86.81% of written lines came from AI
+📄 Detailed Prompter — average 842 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 4.56% of changed lines were hand-edited
+🚀 High AI Trust — 12.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -124,5 +124,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 18:55:23 UTC
+ Last Updated on 24/08/2026 19:09:23 UTC
 <!--END_SECTION:waka-->
