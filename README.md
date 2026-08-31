@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 > 📦 318.2 kB Used in GitHub's Storage 
  > 
-> 🏆 93 Contributions in the Year 2026
+> 🏆 94 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,15 +40,15 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning                789 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-🌆 Daytime                1320 commits        █████████░░░░░░░░░░░░░░░░   34.30 % 
-🌃 Evening                1714 commits        ███████████░░░░░░░░░░░░░░   44.54 % 
+🌆 Daytime                1320 commits        █████████░░░░░░░░░░░░░░░░   34.29 % 
+🌃 Evening                1715 commits        ███████████░░░░░░░░░░░░░░   44.56 % 
 🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   738 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Tuesday                  614 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Monday                   739 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Tuesday                  614 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
 Wednesday                592 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 Thursday                 685 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
 Friday                   623 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
@@ -63,48 +63,48 @@ Sunday                   239 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-YAML                     2 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   38.97 % 
-Markdown                 2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.94 % 
-Vue                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Smarty                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Markdown                 3 hrs 3 mins        ███████████░░░░░░░░░░░░░░   43.61 % 
+YAML                     2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.20 % 
+Smarty                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Vue                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-Codex CLI                3 hrs 52 mins       ████████████████░░░░░░░░░   64.71 % 
-Obsidian                 2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.29 % 
+Codex CLI                3 hrs 50 mins       ██████████████░░░░░░░░░░░   54.98 % 
+Obsidian                 3 hrs 8 mins        ███████████░░░░░░░░░░░░░░   45.02 % 
 
 🐱‍💻 Projects: 
-Obsidian                 1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   32.05 % 
-public-file              1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
-sre-manager              26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-solareye-vue-intelligent 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-docker-files             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Obsidian                 2 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   42.00 % 
+public-file              2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.45 % 
+sre-manager              26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+solareye-vue-intelligent 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+docker-files             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 💻 Operating System: 
-Windows                  5 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 16 mins (71.5%)
+⏱ AI Coding Time: 4 hrs 18 mins (61.53%)
 
-✍️ 685 lines written by AI, 383 lines written by hand (64.14% AI-written)
+✍️ 740 lines written by AI, 402 lines written by hand (64.8% AI-written)
 
-🔤 2,879,265 Input Tokens, 145,927 Output Tokens
+🔤 2,748,804 Input Tokens, 148,729 Output Tokens
 
-💵 $15.15 Estimated AI Cost This Week
+💵 $15.14 Estimated AI Cost This Week
 
 🧠 18 AI Sessions, 52 AI Prompts
 
-GPT                      972 lines           █████████████████████████   100.00 % 
+GPT                      1,050 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.14% of written lines came from AI
-📄 Detailed Prompter — average 1,140 characters per prompt
+⚖️ Balanced with AI — 64.8% of written lines came from AI
+📄 Detailed Prompter — average 1,175 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 28.27% of changed lines were hand-edited
+🚀 High AI Trust — 27.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -124,5 +124,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 21:18:33 UTC
+ Last Updated on 31/08/2026 22:59:00 UTC
 <!--END_SECTION:waka-->
