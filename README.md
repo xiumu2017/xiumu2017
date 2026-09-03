@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C715%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C716%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 318.2 kB Used in GitHub's Storage 
+> 📦 318.3 kB Used in GitHub's Storage 
  > 
-> 🏆 95 Contributions in the Year 2026
+> 🏆 96 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,17 +40,17 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning                789 commits         █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-🌆 Daytime                1320 commits        █████████░░░░░░░░░░░░░░░░   34.29 % 
-🌃 Evening                1716 commits        ███████████░░░░░░░░░░░░░░   44.57 % 
+🌆 Daytime                1320 commits        █████████░░░░░░░░░░░░░░░░   34.28 % 
+🌃 Evening                1717 commits        ███████████░░░░░░░░░░░░░░   44.59 % 
 🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   739 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Tuesday                  614 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Tuesday                  614 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
 Wednesday                593 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Thursday                 685 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Thursday                 686 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
 Friday                   623 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
 Saturday                 357 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
 Sunday                   239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
@@ -63,48 +63,49 @@ Sunday                   239 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 3 hrs 9 mins        █████████████░░░░░░░░░░░░   53.41 % 
-YAML                     1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Smarty                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Markdown                 2 hrs 58 mins       ████████████░░░░░░░░░░░░░   46.77 % 
+YAML                     1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   31.37 % 
+Smarty                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Vue                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🔥 Editors: 
-Obsidian                 3 hrs 13 mins       ██████████████░░░░░░░░░░░   54.31 % 
-Codex CLI                2 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.69 % 
+Codex CLI                3 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.23 % 
+Obsidian                 2 hrs 58 mins       ████████████░░░░░░░░░░░░░   46.76 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🐱‍💻 Projects: 
-Obsidian                 3 hrs 3 mins        █████████████░░░░░░░░░░░░   51.48 % 
-public-file              57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-devops-share             31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-sre-manager              26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-solareye-vue-intelligent 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Obsidian                 2 hrs 47 mins       ███████████░░░░░░░░░░░░░░   43.90 % 
+public-file              1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+devops-share             31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+sre-manager              26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+solareye-vue-intelligent 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 
 💻 Operating System: 
-Windows                  5 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 3 mins (51.73%)
+⏱ AI Coding Time: 3 hrs 29 mins (55.02%)
 
-✍️ 600 lines written by AI, 153 lines written by hand (79.68% AI-written)
+✍️ 749 lines written by AI, 121 lines written by hand (86.09% AI-written)
 
-🔤 842,539 Input Tokens, 86,233 Output Tokens
+🔤 1,009,009 Input Tokens, 98,298 Output Tokens
 
-💵 $8.02 Estimated AI Cost This Week
+💵 $8.39 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 33 AI Prompts
+🧠 16 AI Sessions, 38 AI Prompts
 
-GPT                      662 lines           █████████████████████████   100.00 % 
+GPT                      811 lines           █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.68% of written lines came from AI
-📄 Detailed Prompter — average 753 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 18.97% of changed lines were hand-edited
+🤖 AI-Driven — 86.09% of written lines came from AI
+📄 Detailed Prompter — average 683 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 13.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -124,5 +125,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:12:17 UTC
+ Last Updated on 03/09/2026 21:12:39 UTC
 <!--END_SECTION:waka-->
