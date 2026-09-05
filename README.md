@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C717%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C720%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 318.4 kB Used in GitHub's Storage 
+> 📦 318.5 kB Used in GitHub's Storage 
  > 
-> 🏆 98 Contributions in the Year 2026
+> 🏆 99 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning                789 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-🌆 Daytime                1320 commits        █████████░░░░░░░░░░░░░░░░   34.27 % 
-🌃 Evening                1718 commits        ███████████░░░░░░░░░░░░░░   44.60 % 
+🌆 Daytime                1321 commits        █████████░░░░░░░░░░░░░░░░   34.28 % 
+🌃 Evening                1718 commits        ███████████░░░░░░░░░░░░░░   44.59 % 
 🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 Monday                   739 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
 Tuesday                  614 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
 Wednesday                593 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Thursday                 686 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Thursday                 686 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
 Friday                   624 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Saturday                 357 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Saturday                 358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 Sunday                   239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 ```
 
@@ -63,34 +63,34 @@ Sunday                   239 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 3 hrs 31 mins       █████████████░░░░░░░░░░░░   51.09 % 
-YAML                     2 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.12 % 
-TypeScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Docker                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Markdown                 4 hrs 7 mins        ██████████████░░░░░░░░░░░   54.98 % 
+YAML                     2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+TypeScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Docker                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-Obsidian                 3 hrs 35 mins       █████████████░░░░░░░░░░░░   51.96 % 
-Codex CLI                3 hrs 3 mins        ███████████░░░░░░░░░░░░░░   44.35 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Obsidian                 4 hrs 11 mins       ██████████████░░░░░░░░░░░   55.79 % 
+Codex CLI                3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.82 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🐱‍💻 Projects: 
-Obsidian                 3 hrs 20 mins       ████████████░░░░░░░░░░░░░   48.45 % 
-public-file              1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-devops-share             1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-gimp-deployment          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-data-mcp-server          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Obsidian                 3 hrs 56 mins       █████████████░░░░░░░░░░░░   52.55 % 
+public-file              1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+devops-share             1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+gimp-deployment          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+data-mcp-server          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 💻 Operating System: 
-Windows                  6 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 54 mins (56.51%)
+⏱ AI Coding Time: 3 hrs 54 mins (52.01%)
 
-✍️ 901 lines written by AI, 121 lines written by hand (88.16% AI-written)
+✍️ 901 lines written by AI, 142 lines written by hand (86.39% AI-written)
 
 🔤 1,131,076 Input Tokens, 123,062 Output Tokens
 
@@ -102,10 +102,10 @@ GPT                      927 lines           ███████████�
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.16% of written lines came from AI
+🤖 AI-Driven — 86.39% of written lines came from AI
 📚 Verbose Prompter — average 1,560 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 11.97% of changed lines were hand-edited
+🚀 High AI Trust — 13.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -114,7 +114,7 @@ Codex-Cli                0 lines             ░░░░░░░░░░░�
 Java                     22 repos            ██████████░░░░░░░░░░░░░░░   39.29 % 
 TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
 JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
@@ -125,5 +125,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 20:55:56 UTC
+ Last Updated on 05/09/2026 20:32:51 UTC
 <!--END_SECTION:waka-->
