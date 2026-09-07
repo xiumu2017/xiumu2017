@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 318.5 kB Used in GitHub's Storage 
+> 📦 318.6 kB Used in GitHub's Storage 
  > 
-> 🏆 99 Contributions in the Year 2026
+> 🏆 100 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -39,19 +39,19 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                789 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+🌞 Morning                789 commits         █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
 🌆 Daytime                1321 commits        █████████░░░░░░░░░░░░░░░░   34.28 % 
-🌃 Evening                1718 commits        ███████████░░░░░░░░░░░░░░   44.59 % 
+🌃 Evening                1719 commits        ███████████░░░░░░░░░░░░░░   44.60 % 
 🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   739 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Tuesday                  614 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Monday                   740 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Tuesday                  614 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
 Wednesday                593 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
 Thursday                 686 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Friday                   624 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Friday                   624 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
 Saturday                 358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 Sunday                   239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 ```
@@ -63,49 +63,49 @@ Sunday                   239 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 4 hrs 7 mins        ██████████████░░░░░░░░░░░   54.98 % 
-YAML                     2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-TypeScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Docker                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Markdown                 4 hrs 16 mins       ██████████████░░░░░░░░░░░   57.54 % 
+YAML                     1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+TypeScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Docker                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 🔥 Editors: 
-Obsidian                 4 hrs 11 mins       ██████████████░░░░░░░░░░░   55.79 % 
-Codex CLI                3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.82 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Obsidian                 3 hrs 44 mins       █████████████░░░░░░░░░░░░   50.27 % 
+Codex CLI                3 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.30 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🐱‍💻 Projects: 
-Obsidian                 3 hrs 56 mins       █████████████░░░░░░░░░░░░   52.55 % 
-public-file              1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-devops-share             1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-gimp-deployment          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-data-mcp-server          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Obsidian                 3 hrs 46 mins       █████████████░░░░░░░░░░░░   50.67 % 
+public-file              1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+devops-share             1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+gimp-deployment          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+data-mcp-server          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 💻 Operating System: 
-Windows                  7 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 54 mins (52.01%)
+⏱ AI Coding Time: 4 hrs 18 mins (57.91%)
 
-✍️ 901 lines written by AI, 142 lines written by hand (86.39% AI-written)
+✍️ 1,984 lines written by AI, 94 lines written by hand (95.48% AI-written)
 
-🔤 1,131,076 Input Tokens, 123,062 Output Tokens
+🔤 1,176,207 Input Tokens, 143,387 Output Tokens
 
-💵 $10.91 Estimated AI Cost This Week
+💵 $16.81 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 38 AI Prompts
+🧠 21 AI Sessions, 48 AI Prompts
 
-GPT                      927 lines           █████████████████████████   100.00 % 
+GPT                      1,987 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.39% of written lines came from AI
-📚 Verbose Prompter — average 1,560 characters per prompt
+🤖 AI-Driven — 95.48% of written lines came from AI
+📄 Detailed Prompter — average 1,247 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 13.69% of changed lines were hand-edited
+🚀 High AI Trust — 4.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -125,5 +125,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 20:35:16 UTC
+ Last Updated on 07/09/2026 21:40:09 UTC
 <!--END_SECTION:waka-->
