@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C724%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C726%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 > 📦 318.7 kB Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2026
+> 🏆 104 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -39,21 +39,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                789 commits         █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-🌆 Daytime                1322 commits        █████████░░░░░░░░░░░░░░░░   34.28 % 
-🌃 Evening                1721 commits        ███████████░░░░░░░░░░░░░░   44.62 % 
+🌞 Morning                789 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+🌆 Daytime                1322 commits        █████████░░░░░░░░░░░░░░░░   34.27 % 
+🌃 Evening                1722 commits        ███████████░░░░░░░░░░░░░░   44.63 % 
 🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   740 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Tuesday                  615 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Monday                   740 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Tuesday                  615 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
 Wednesday                593 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
 Thursday                 687 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
 Friday                   625 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Saturday                 358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Sunday                   239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Saturday                 359 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Sunday                   239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 ```
 
 
@@ -63,20 +63,20 @@ Sunday                   239 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 3 hrs 51 mins       ██████████████░░░░░░░░░░░   54.47 % 
+Markdown                 4 hrs 18 mins       ███████████████░░░░░░░░░░   60.85 % 
 YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-HTML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Smarty                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Smarty                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 🔥 Editors: 
-Codex CLI                4 hrs 10 mins       ███████████████░░░░░░░░░░   58.97 % 
-Obsidian                 2 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   41.03 % 
+Codex CLI                3 hrs 44 mins       █████████████░░░░░░░░░░░░   52.88 % 
+Obsidian                 3 hrs 19 mins       ████████████░░░░░░░░░░░░░   47.12 % 
 
 🐱‍💻 Projects: 
-Obsidian                 3 hrs 32 mins       █████████████░░░░░░░░░░░░   50.17 % 
-midautumn-activity       1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-isolareye-devops         1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Obsidian                 3 hrs 32 mins       █████████████░░░░░░░░░░░░   50.11 % 
+midautumn-activity       1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+isolareye-devops         1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
 public-file              43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
 solareye-permission-helpe14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
@@ -87,24 +87,24 @@ Windows                  7 hrs 4 mins        ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 40 mins (66.11%)
+⏱ AI Coding Time: 4 hrs 15 mins (60.21%)
 
-✍️ 2,354 lines written by AI, 97 lines written by hand (96.04% AI-written)
+✍️ 1,676 lines written by AI, 103 lines written by hand (94.21% AI-written)
 
-🔤 882,583 Input Tokens, 124,020 Output Tokens
+🔤 778,218 Input Tokens, 88,442 Output Tokens
 
-💵 $19.45 Estimated AI Cost This Week
+💵 $16.90 Estimated AI Cost This Week
 
 🧠 13 AI Sessions, 49 AI Prompts
 
-GPT                      2,376 lines         █████████████████████████   100.00 % 
+GPT                      1,698 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.04% of written lines came from AI
-📄 Detailed Prompter — average 665 characters per prompt
+🤖 AI-Driven — 94.21% of written lines came from AI
+📄 Detailed Prompter — average 673 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.92% of changed lines were hand-edited
+🚀 High AI Trust — 5.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -124,5 +124,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:07:42 UTC
+ Last Updated on 12/09/2026 20:44:37 UTC
 <!--END_SECTION:waka-->
