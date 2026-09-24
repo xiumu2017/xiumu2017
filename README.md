@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C737%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C738%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-161%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -63,51 +63,51 @@ Sunday                   241 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 6 hrs 55 mins       ████████████████░░░░░░░░░   64.67 % 
-YAML                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Other                    1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Astro                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Markdown                 5 hrs 29 mins       ████████████████░░░░░░░░░   65.18 % 
+Other                    1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Astro                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 31 mins       ███████████░░░░░░░░░░░░░░   42.26 % 
-Obsidian                 4 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   38.87 % 
-Codex CLI                1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Claude Code              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+VS Code                  3 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.97 % 
+Obsidian                 3 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.72 % 
+Codex CLI                1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Claude Code              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🐱‍💻 Projects: 
-Obsidian                 4 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   40.43 % 
-zdzy-blog                3 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   33.58 % 
-public-file              1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-isolareye-devops         43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-pyflink-job-observer     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Obsidian                 3 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   38.70 % 
+zdzy-blog                3 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   38.01 % 
+isolareye-devops         43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+pyflink-job-observer     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+gimp-deployment          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 💻 Operating System: 
-Windows                  10 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 42 mins (34.65%)
+⏱ AI Coding Time: 2 hrs 45 mins (32.64%)
 
-✍️ 628 lines written by AI, 2,315 lines written by hand (21.34% AI-written)
+✍️ 362 lines written by AI, 497 lines written by hand (42.14% AI-written)
 
-🔤 706,273 Input Tokens, 87,183 Output Tokens
+🔤 688,695 Input Tokens, 76,877 Output Tokens
 
-💵 $12.47 Estimated AI Cost This Week
+💵 $11.28 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 35 AI Prompts
+🧠 10 AI Sessions, 26 AI Prompts
 
-Glm                      558 lines           ███████████████████████░░   91.78 % 
-GPT                      50 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Glm                      292 lines           █████████████████████░░░░   85.38 % 
+GPT                      50 lines            ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 21.34% of written lines came from AI
-📝 Concise Prompter — average 499 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 79.17% of changed lines were hand-edited
+⚖️ Balanced with AI — 42.14% of written lines came from AI
+📄 Detailed Prompter — average 522 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 60.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -127,5 +127,5 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 21:39:11 UTC
+ Last Updated on 24/09/2026 21:40:34 UTC
 <!--END_SECTION:waka-->
