@@ -63,51 +63,50 @@ Sunday                   241 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 5 hrs 29 mins       ████████████████░░░░░░░░░   65.18 % 
-Other                    1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Astro                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Markdown                 4 hrs 38 mins       ███████████████████░░░░░░   77.87 % 
+YAML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Astro                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.97 % 
-Obsidian                 3 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.72 % 
-Codex CLI                1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Claude Code              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+VS Code                  2 hrs 52 mins       ████████████░░░░░░░░░░░░░   48.18 % 
+Obsidian                 2 hrs 32 mins       ███████████░░░░░░░░░░░░░░   42.60 % 
+Codex CLI                32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 
 🐱‍💻 Projects: 
-Obsidian                 3 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   38.70 % 
-zdzy-blog                3 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   38.01 % 
-isolareye-devops         43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-pyflink-job-observer     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-gimp-deployment          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Obsidian                 2 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.41 % 
+zdzy-blog                2 hrs 38 mins       ███████████░░░░░░░░░░░░░░   44.27 % 
+pyflink-job-observer     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+public-file              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+solareye-deployment-deliv3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 💻 Operating System: 
-Windows                  8 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 45 mins (32.64%)
+⏱ AI Coding Time: 1 hr 21 mins (22.83%)
 
-✍️ 362 lines written by AI, 497 lines written by hand (42.14% AI-written)
+✍️ 325 lines written by AI, 467 lines written by hand (41.04% AI-written)
 
-🔤 688,695 Input Tokens, 76,877 Output Tokens
+🔤 163,449 Input Tokens, 33,559 Output Tokens
 
-💵 $11.28 Estimated AI Cost This Week
+💵 $6.41 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 26 AI Prompts
+🧠 4 AI Sessions, 11 AI Prompts
 
-Glm                      292 lines           █████████████████████░░░░   85.38 % 
-GPT                      50 lines            ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Glm                      275 lines           █████████████████████░░░░   84.62 % 
+GPT                      50 lines            ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 42.14% of written lines came from AI
-📄 Detailed Prompter — average 522 characters per prompt
+⚖️ Balanced with AI — 41.04% of written lines came from AI
+📝 Concise Prompter — average 362 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 60.99% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 61.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -127,5 +126,5 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 21:40:34 UTC
+ Last Updated on 25/09/2026 21:44:43 UTC
 <!--END_SECTION:waka-->
