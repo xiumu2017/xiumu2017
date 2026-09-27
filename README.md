@@ -63,50 +63,47 @@ Sunday                   241 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 4 hrs 38 mins       ███████████████████░░░░░░   77.87 % 
-YAML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Astro                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Markdown                 3 hrs 32 mins       ████████████████████░░░░░   81.68 % 
+YAML                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Astro                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+MDX                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 52 mins       ████████████░░░░░░░░░░░░░   48.18 % 
-Obsidian                 2 hrs 32 mins       ███████████░░░░░░░░░░░░░░   42.60 % 
-Codex CLI                32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+VS Code                  1 hr 59 mins        ████████████░░░░░░░░░░░░░   46.03 % 
+Obsidian                 1 hr 55 mins        ███████████░░░░░░░░░░░░░░   44.47 % 
+Codex CLI                24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
 
 🐱‍💻 Projects: 
-Obsidian                 2 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.41 % 
-zdzy-blog                2 hrs 38 mins       ███████████░░░░░░░░░░░░░░   44.27 % 
-pyflink-job-observer     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-public-file              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-solareye-deployment-deliv3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Obsidian                 2 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.34 % 
+zdzy-blog                1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   40.66 % 
+pyflink-job-observer     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+solareye-deployment-deliv3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 💻 Operating System: 
-Windows                  5 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 21 mins (22.83%)
+⏱ AI Coding Time: 24 mins (9.5%)
 
-✍️ 325 lines written by AI, 467 lines written by hand (41.04% AI-written)
+✍️ 50 lines written by AI, 404 lines written by hand (11.01% AI-written)
 
-🔤 163,449 Input Tokens, 33,559 Output Tokens
+🔤 89,263 Input Tokens, 6,439 Output Tokens
 
-💵 $6.41 Estimated AI Cost This Week
+💵 $1.97 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 11 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-Glm                      275 lines           █████████████████████░░░░   84.62 % 
-GPT                      50 lines            ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      50 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 41.04% of written lines came from AI
-📝 Concise Prompter — average 362 characters per prompt
+🧑‍💻 Mostly Hands-On — 11.01% of written lines came from AI
+📝 Concise Prompter — average 55 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 61.9% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 90.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -126,5 +123,5 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 21:22:04 UTC
+ Last Updated on 27/09/2026 21:31:31 UTC
 <!--END_SECTION:waka-->
