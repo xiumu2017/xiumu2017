@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 > 📦 328.9 kB Used in GitHub's Storage 
  > 
-> 🏆 135 Contributions in the Year 2026
+> 🏆 136 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,15 +40,15 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning                793 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-🌆 Daytime                1328 commits        █████████░░░░░░░░░░░░░░░░   34.17 % 
-🌃 Evening                1741 commits        ███████████░░░░░░░░░░░░░░   44.79 % 
+🌆 Daytime                1328 commits        █████████░░░░░░░░░░░░░░░░   34.16 % 
+🌃 Evening                1742 commits        ███████████░░░░░░░░░░░░░░   44.80 % 
 🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   750 commits         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Tuesday                  621 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Monday                   751 commits         █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Tuesday                  621 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
 Wednesday                596 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
 Thursday                 690 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
 Friday                   629 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
@@ -63,47 +63,49 @@ Sunday                   241 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 3 hrs 32 mins       ████████████████████░░░░░   81.68 % 
-YAML                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Astro                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-MDX                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Markdown                 2 hrs 4 mins        ████████████████░░░░░░░░░   62.32 % 
+YAML                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Docker                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-VS Code                  1 hr 59 mins        ████████████░░░░░░░░░░░░░   46.03 % 
-Obsidian                 1 hr 55 mins        ███████████░░░░░░░░░░░░░░   44.47 % 
-Codex CLI                24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Obsidian                 1 hr 24 mins        ███████████░░░░░░░░░░░░░░   44.83 % 
+VS Code                  1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   40.87 % 
+Codex CLI                26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 
 🐱‍💻 Projects: 
-Obsidian                 2 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.34 % 
-zdzy-blog                1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   40.66 % 
-pyflink-job-observer     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-solareye-deployment-deliv3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Obsidian                 1 hr 34 mins        █████████████░░░░░░░░░░░░   50.17 % 
+solareye-ops             41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+pyflink-job-observer     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+public-file              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+zdzy-blog                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 💻 Operating System: 
-Windows                  4 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (9.5%)
+⏱ AI Coding Time: 1 hr 19 mins (40.86%)
 
-✍️ 50 lines written by AI, 404 lines written by hand (11.01% AI-written)
+✍️ 232 lines written by AI, 90 lines written by hand (72.05% AI-written)
 
-🔤 89,263 Input Tokens, 6,439 Output Tokens
+🔤 344,066 Input Tokens, 51,654 Output Tokens
 
-💵 $1.97 Estimated AI Cost This Week
+💵 $16.70 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 3 AI Sessions, 13 AI Prompts
 
-GPT                      50 lines            █████████████████████████   100.00 % 
+Glm                      182 lines           ████████████████████░░░░░   78.45 % 
+GPT                      50 lines            █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.01% of written lines came from AI
-📝 Concise Prompter — average 55 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 90.23% of changed lines were hand-edited
+🤖 AI-Driven — 72.05% of written lines came from AI
+📝 Concise Prompter — average 326 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 30.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -123,5 +125,5 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 21:31:31 UTC
+ Last Updated on 28/09/2026 23:26:51 UTC
 <!--END_SECTION:waka-->
