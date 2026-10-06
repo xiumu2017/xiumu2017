@@ -63,49 +63,46 @@ Sunday                   243 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 2 hrs 11 mins       ███████████████░░░░░░░░░░   60.42 % 
-Other                    38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Docker                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Markdown                 1 hr 23 mins        █████████████████░░░░░░░░   67.72 % 
+Other                    36 mins             ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔥 Editors: 
-Obsidian                 1 hr 33 mins        ███████████░░░░░░░░░░░░░░   42.98 % 
-VS Code                  1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   31.04 % 
-Codex CLI                56 mins             ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+Codex CLI                54 mins             ███████████░░░░░░░░░░░░░░   44.24 % 
+Obsidian                 54 mins             ███████████░░░░░░░░░░░░░░   43.83 % 
+VS Code                  14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 
 🐱‍💻 Projects: 
-Obsidian                 1 hr 33 mins        ███████████░░░░░░░░░░░░░░   42.98 % 
-solareye-ops             41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-sub2api                  30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-pm-hr                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-public-file              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Obsidian                 54 mins             ███████████░░░░░░░░░░░░░░   43.83 % 
+sub2api                  30 mins             ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+pm-hr                    28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+zdzy-blog                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+solareye-deployment-deliv3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 💻 Operating System: 
-Windows                  3 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 53 mins (52.16%)
+⏱ AI Coding Time: 58 mins (47.56%)
 
-✍️ 182 lines written by AI, 60 lines written by hand (75.21% AI-written)
+✍️ 0 lines written by AI, 35 lines written by hand (0.0% AI-written)
 
-🔤 514,182 Input Tokens, 82,568 Output Tokens
+🔤 259,379 Input Tokens, 37,353 Output Tokens
 
-💵 $16.76 Estimated AI Cost This Week
+💵 $2.02 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 16 AI Prompts
+🧠 4 AI Sessions, 6 AI Prompts
 
-Glm                      182 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.21% of written lines came from AI
-📄 Detailed Prompter — average 684 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 24.79% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 1,146 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -125,5 +122,5 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:43:40 UTC
+ Last Updated on 06/10/2026 00:13:53 UTC
 <!--END_SECTION:waka-->
