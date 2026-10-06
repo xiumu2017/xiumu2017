@@ -63,45 +63,40 @@ Sunday                   243 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 1 hr 23 mins        █████████████████░░░░░░░░   67.72 % 
-Other                    36 mins             ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Markdown                 27 mins             ████████████████████░░░░░   78.35 % 
+Other                    7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
 
 🔥 Editors: 
-Codex CLI                54 mins             ███████████░░░░░░░░░░░░░░   44.24 % 
-Obsidian                 54 mins             ███████████░░░░░░░░░░░░░░   43.83 % 
-VS Code                  14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Obsidian                 27 mins             ████████████████████░░░░░   78.35 % 
+Codex CLI                7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
 
 🐱‍💻 Projects: 
-Obsidian                 54 mins             ███████████░░░░░░░░░░░░░░   43.83 % 
-sub2api                  30 mins             ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-pm-hr                    28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
-zdzy-blog                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-solareye-deployment-deliv3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Obsidian                 27 mins             ████████████████████░░░░░   78.35 % 
+sub2api                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
 
 💻 Operating System: 
-Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (47.56%)
+⏱ AI Coding Time: 7 mins (21.65%)
 
-✍️ 0 lines written by AI, 35 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
 
-🔤 259,379 Input Tokens, 37,353 Output Tokens
+🔤 18,533 Input Tokens, 28 Output Tokens
 
-💵 $2.02 Estimated AI Cost This Week
+💵 $0.04 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 6 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,146 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 2 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -122,5 +117,5 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 00:13:53 UTC
+ Last Updated on 06/10/2026 22:44:59 UTC
 <!--END_SECTION:waka-->
