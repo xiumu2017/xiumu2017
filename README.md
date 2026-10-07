@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 > 📦 329.2 kB Used in GitHub's Storage 
  > 
-> 🏆 142 Contributions in the Year 2026
+> 🏆 143 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -39,20 +39,20 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                793 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-🌆 Daytime                1329 commits        █████████░░░░░░░░░░░░░░░░   34.14 % 
-🌃 Evening                1746 commits        ███████████░░░░░░░░░░░░░░   44.85 % 
+🌞 Morning                793 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+🌆 Daytime                1330 commits        █████████░░░░░░░░░░░░░░░░   34.16 % 
+🌃 Evening                1746 commits        ███████████░░░░░░░░░░░░░░   44.84 % 
 🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   751 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Tuesday                  622 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Wednesday                598 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Tuesday                  622 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Wednesday                599 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 Thursday                 690 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Friday                   629 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Saturday                 360 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Friday                   629 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Saturday                 360 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 Sunday                   243 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 ```
 
@@ -63,40 +63,39 @@ Sunday                   243 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 27 mins             ████████████████████░░░░░   78.35 % 
-Other                    7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Markdown                 35 mins             █████████████████████████   99.58 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-Obsidian                 27 mins             ████████████████████░░░░░   78.35 % 
-Codex CLI                7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Obsidian                 27 mins             ████████████████████░░░░░   78.46 % 
+Codex CLI                7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
 
 🐱‍💻 Projects: 
-Obsidian                 27 mins             ████████████████████░░░░░   78.35 % 
-sub2api                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Obsidian                 35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.00 % 
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (21.65%)
+⏱ AI Coding Time: 9 mins (27.51%)
 
-✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 98 lines written by hand (0.0% AI-written)
 
-🔤 18,533 Input Tokens, 28 Output Tokens
+🔤 38,835 Input Tokens, 490 Output Tokens
 
-💵 $0.04 Estimated AI Cost This Week
+💵 $0.09 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 2 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📄 Detailed Prompter — average 740 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -117,5 +116,5 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:44:59 UTC
+ Last Updated on 07/10/2026 23:15:38 UTC
 <!--END_SECTION:waka-->
