@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 > 📦 329.2 kB Used in GitHub's Storage 
  > 
-> 🏆 149 Contributions in the Year 2026
+> 🏆 150 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -39,17 +39,17 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                796 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+🌞 Morning                796 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
 🌆 Daytime                1330 commits        █████████░░░░░░░░░░░░░░░░   34.09 % 
-🌃 Evening                1750 commits        ███████████░░░░░░░░░░░░░░   44.86 % 
+🌃 Evening                1751 commits        ███████████░░░░░░░░░░░░░░   44.87 % 
 🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   751 commits         █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Monday                   752 commits         █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
 Tuesday                  622 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Wednesday                599 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Wednesday                599 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
 Thursday                 693 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
 Friday                   632 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
 Saturday                 361 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
@@ -63,30 +63,30 @@ Sunday                   243 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 1 hr 54 mins        ███████████████████░░░░░░   75.01 % 
-Other                    24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Git Config               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Markdown                 2 hrs 10 mins       ███████████████████░░░░░░   77.45 % 
+Other                    24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Git Config               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 
 🔥 Editors: 
-Obsidian                 1 hr 30 mins        ███████████████░░░░░░░░░░   59.81 % 
-Codex CLI                35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-VS Code                  25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Obsidian                 1 hr 47 mins        ████████████████░░░░░░░░░   63.73 % 
+Codex CLI                35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+VS Code                  25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
 
 🐱‍💻 Projects: 
-Obsidian                 2 hrs 1 min         ████████████████████░░░░░   79.80 % 
-sub2api                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-zdzy-blog                14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Obsidian                 2 hrs 17 mins       ████████████████████░░░░░   81.77 % 
+sub2api                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+zdzy-blog                14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 
 💻 Operating System: 
-Windows                  2 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (31.28%)
+⏱ AI Coding Time: 47 mins (28.22%)
 
-✍️ 30 lines written by AI, 243 lines written by hand (10.99% AI-written)
+✍️ 30 lines written by AI, 259 lines written by hand (10.38% AI-written)
 
 🔤 128,001 Input Tokens, 9,788 Output Tokens
 
@@ -97,10 +97,10 @@ Windows                  2 hrs 32 mins       ███████████�
 GPT                      30 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.99% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 10.38% of written lines came from AI
 📄 Detailed Prompter — average 598 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 89.01% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 89.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -120,5 +120,5 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 22:12:27 UTC
+ Last Updated on 13/10/2026 00:54:41 UTC
 <!--END_SECTION:waka-->
