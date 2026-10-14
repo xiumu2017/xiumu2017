@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%201%20min-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -63,44 +63,44 @@ Sunday                   243 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 2 hrs 10 mins       ███████████████████░░░░░░   77.45 % 
-Other                    24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Git Config               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Markdown                 1 hr 35 mins        ██████████████████░░░░░░░   71.59 % 
+Other                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Git Config               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 
 🔥 Editors: 
-Obsidian                 1 hr 47 mins        ████████████████░░░░░░░░░   63.73 % 
-Codex CLI                35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-VS Code                  25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Obsidian                 1 hr 19 mins        ███████████████░░░░░░░░░░   59.83 % 
+Codex CLI                27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+VS Code                  25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
 
 🐱‍💻 Projects: 
-Obsidian                 2 hrs 17 mins       ████████████████████░░░░░   81.77 % 
-sub2api                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-zdzy-blog                14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Obsidian                 1 hr 42 mins        ███████████████████░░░░░░   76.94 % 
+sub2api                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+zdzy-blog                14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
 
 💻 Operating System: 
-Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (28.22%)
+⏱ AI Coding Time: 37 mins (28.41%)
 
-✍️ 30 lines written by AI, 259 lines written by hand (10.38% AI-written)
+✍️ 30 lines written by AI, 161 lines written by hand (15.71% AI-written)
 
-🔤 128,001 Input Tokens, 9,788 Output Tokens
+🔤 89,166 Input Tokens, 9,298 Output Tokens
 
-💵 $0.61 Estimated AI Cost This Week
+💵 $0.52 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 10 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
 
 GPT                      30 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.38% of written lines came from AI
-📄 Detailed Prompter — average 598 characters per prompt
+🧑‍💻 Mostly Hands-On — 15.71% of written lines came from AI
+📄 Detailed Prompter — average 503 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 89.62% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 84.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -120,5 +120,5 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 23:00:10 UTC
+ Last Updated on 14/10/2026 21:52:20 UTC
 <!--END_SECTION:waka-->
