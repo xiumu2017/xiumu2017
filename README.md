@@ -63,44 +63,41 @@ Sunday                   243 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 1 hr 35 mins        ██████████████████░░░░░░░   71.59 % 
-Other                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Git Config               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Markdown                 1 hr 7 mins         ███████████████████░░░░░░   75.93 % 
+Other                    21 mins             ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
 
 🔥 Editors: 
-Obsidian                 1 hr 19 mins        ███████████████░░░░░░░░░░   59.83 % 
-Codex CLI                27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-VS Code                  25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Obsidian                 1 hr 6 mins         ███████████████████░░░░░░   74.38 % 
+Codex CLI                11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+VS Code                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 
 🐱‍💻 Projects: 
-Obsidian                 1 hr 42 mins        ███████████████████░░░░░░   76.94 % 
-sub2api                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-zdzy-blog                14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Obsidian                 1 hr 28 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (28.41%)
+⏱ AI Coding Time: 21 mins (24.07%)
 
-✍️ 30 lines written by AI, 161 lines written by hand (15.71% AI-written)
+✍️ 0 lines written by AI, 133 lines written by hand (0.0% AI-written)
 
-🔤 89,166 Input Tokens, 9,298 Output Tokens
+🔤 26,435 Input Tokens, 3,268 Output Tokens
 
-💵 $0.52 Estimated AI Cost This Week
+💵 $0.16 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 6 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
-GPT                      30 lines            █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.71% of written lines came from AI
-📄 Detailed Prompter — average 503 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 736 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 84.29% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -120,5 +117,5 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 21:52:20 UTC
+ Last Updated on 15/10/2026 21:36:28 UTC
 <!--END_SECTION:waka-->
