@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 329.2 kB Used in GitHub's Storage 
+> 📦 330.0 kB Used in GitHub's Storage 
  > 
-> 🏆 150 Contributions in the Year 2026
+> 🏆 151 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                796 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-🌆 Daytime                1330 commits        █████████░░░░░░░░░░░░░░░░   34.09 % 
-🌃 Evening                1751 commits        ███████████░░░░░░░░░░░░░░   44.87 % 
+🌞 Morning                796 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+🌆 Daytime                1330 commits        █████████░░░░░░░░░░░░░░░░   34.08 % 
+🌃 Evening                1752 commits        ███████████░░░░░░░░░░░░░░   44.89 % 
 🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -51,7 +51,7 @@ Monday                   752 commits         █████░░░░░░�
 Tuesday                  622 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
 Wednesday                599 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
 Thursday                 693 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Friday                   632 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Friday                   633 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
 Saturday                 361 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 Sunday                   243 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 ```
@@ -63,39 +63,37 @@ Sunday                   243 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 1 hr 7 mins         ███████████████████░░░░░░   75.93 % 
-Other                    21 mins             ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+Markdown                 1 hr 14 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 1 hr 6 mins         ███████████████████░░░░░░   74.38 % 
-Codex CLI                11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-VS Code                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Obsidian                 1 hr 14 mins        █████████████████████████   99.91 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-Obsidian                 1 hr 28 mins        █████████████████████████   100.00 % 
+Obsidian                 1 hr 14 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (24.07%)
+⏱ AI Coding Time: 0 secs (0.09%)
 
-✍️ 0 lines written by AI, 133 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 82 lines written by hand (0.0% AI-written)
 
-🔤 26,435 Input Tokens, 3,268 Output Tokens
+🔤 12,154 Input Tokens, 14 Output Tokens
 
-💵 $0.16 Estimated AI Cost This Week
+💵 $0.03 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 736 characters per prompt
+📄 Detailed Prompter — average 1,500 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -117,5 +115,5 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 21:36:28 UTC
+ Last Updated on 16/10/2026 21:29:11 UTC
 <!--END_SECTION:waka-->
