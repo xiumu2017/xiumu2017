@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C743%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C744%20hrs%2020%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%201%20min-blue?style=flat)
 
@@ -63,25 +63,25 @@ Sunday                   243 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 1 hr 14 mins        █████████████████████████   100.00 % 
+Markdown                 51 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 1 hr 14 mins        █████████████████████████   99.91 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Obsidian                 51 mins             █████████████████████████   99.87 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-Obsidian                 1 hr 14 mins        █████████████████████████   100.00 % 
+Obsidian                 51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.09%)
+⏱ AI Coding Time: 0 secs (0.13%)
 
-✍️ 0 lines written by AI, 82 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 78 lines written by hand (0.0% AI-written)
 
 🔤 12,154 Input Tokens, 14 Output Tokens
 
@@ -115,5 +115,5 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 21:29:11 UTC
+ Last Updated on 17/10/2026 20:48:16 UTC
 <!--END_SECTION:waka-->
