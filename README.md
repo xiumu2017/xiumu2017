@@ -63,25 +63,25 @@ Sunday                   243 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 51 mins             █████████████████████████   100.00 % 
+Markdown                 34 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 51 mins             █████████████████████████   99.87 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Obsidian                 34 mins             █████████████████████████   99.81 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-Obsidian                 51 mins             █████████████████████████   100.00 % 
+Obsidian                 34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  51 mins             █████████████████████████   100.00 % 
+Windows                  34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.13%)
+⏱ AI Coding Time: 0 secs (0.19%)
 
-✍️ 0 lines written by AI, 78 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 62 lines written by hand (0.0% AI-written)
 
 🔤 12,154 Input Tokens, 14 Output Tokens
 
@@ -115,5 +115,5 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiumu2017/xiumu2017/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 20:57:59 UTC
+ Last Updated on 19/10/2026 22:33:20 UTC
 <!--END_SECTION:waka-->
